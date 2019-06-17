@@ -19,7 +19,7 @@ remote_theme             : mmistakes/minimal-mistakes
 locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Wonjun Chun"
 description              : "An amazing website."
 url                      : "https://wonjunchun.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Wonjun Chun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Mise-en-scène in my code."
+  location         : "Daejeon, Republic of Korea"
   email            :
   links:
     - label: "Email"
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/WonjunChun"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
