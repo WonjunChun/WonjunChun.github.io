@@ -17,7 +17,7 @@ remote_theme             : mmistakes/minimal-mistakes
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Brain Overflow 2019"
 title_separator          : "-"
 name                     : "Wonjun Chun"
 description              : "An amazing website."
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Wonjun Chun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Mise-en-scène in my code."
+  bio              : "2019 Summer Mogakco Study Group : Brain Overflow Team Blog"
   location         : "Daejeon, Republic of Korea"
   email            :
   links:
