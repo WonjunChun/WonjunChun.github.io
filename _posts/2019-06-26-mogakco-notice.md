@@ -3,6 +3,8 @@ title: "2019 하계 모각코 팀 공지 - Brain Overflow"
 date: 2019-06-26 14:00:00 -0400
 categories: mogakco study
 ---
+저희 Brain Overflow 팀은 매주 수요일 저녁 7시부터 3시간동안 모임을 가질 계획입니다.
+
 하계 모각코 팀원 목록입니다!
 1. 팀장 천원준
     - 웹공부, 소켓프로그래밍 공부 예정
