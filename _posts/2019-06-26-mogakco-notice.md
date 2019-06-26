@@ -21,8 +21,8 @@ categories: mogakco study
 4. 팀원 송보근
     - [블로그][blog-04]
 
-5. 팀원 한원희
-    - [블로그][blog-05]
+5. ~~팀원 한원희~~
+    - ~~[블로그][blog-05]~~
 
 [blog-01]: https://wonjunchun.github.io
 [blog-01-temp]: https://seinenim.tistory.com
