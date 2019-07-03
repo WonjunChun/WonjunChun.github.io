@@ -1,5 +1,5 @@
 ---
-title: "201906703 모각코 모임 종료"
+title: "20190703 모각코 모임 종료"
 date: 2019-07-03 22:00:00 -0400
 categories: mogakco study
 ---
