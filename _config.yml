@@ -131,6 +131,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "하계 모각코 팀 공지"
+      icon: "fas fa-fw fa-link"
+      url: "https://wonjunchun.github.io/mogakco/study/mogakco-notice/"
 
 # Site Footer
 footer:
